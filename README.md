@@ -9,7 +9,9 @@ N/A
 
 # Contacts
 How to reach me:
+
 Gmail:stvns2002@gmail.com
+
 Instagram:[stvns2002](https://www.instagram.com/stvns2002/) 
 
 # Projects
